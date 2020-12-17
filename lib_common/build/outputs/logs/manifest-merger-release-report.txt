@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\LiuData\Android_WorkSpace\androidStudy-kotlinStudy\lib_common\src\main\AndroidManifest.xml:1:1-44
+INJECTED from E:\LiuData\Android_WorkSpace\androidStudy-kotlinStudy\lib_common\src\main\AndroidManifest.xml:1:1-44
+INJECTED from E:\LiuData\Android_WorkSpace\androidStudy-kotlinStudy\lib_common\src\main\AndroidManifest.xml:1:1-44
+	package
+		ADDED from E:\LiuData\Android_WorkSpace\androidStudy-kotlinStudy\lib_common\src\main\AndroidManifest.xml:1:11-41
+		INJECTED from E:\LiuData\Android_WorkSpace\androidStudy-kotlinStudy\lib_common\src\main\AndroidManifest.xml
+		INJECTED from E:\LiuData\Android_WorkSpace\androidStudy-kotlinStudy\lib_common\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\LiuData\Android_WorkSpace\androidStudy-kotlinStudy\lib_common\src\main\AndroidManifest.xml:1:1-44
+uses-sdk
+INJECTED from E:\LiuData\Android_WorkSpace\androidStudy-kotlinStudy\lib_common\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\LiuData\Android_WorkSpace\androidStudy-kotlinStudy\lib_common\src\main\AndroidManifest.xml
+INJECTED from E:\LiuData\Android_WorkSpace\androidStudy-kotlinStudy\lib_common\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\LiuData\Android_WorkSpace\androidStudy-kotlinStudy\lib_common\src\main\AndroidManifest.xml
+		ADDED from E:\LiuData\Android_WorkSpace\androidStudy-kotlinStudy\lib_common\src\main\AndroidManifest.xml
+		INJECTED from E:\LiuData\Android_WorkSpace\androidStudy-kotlinStudy\lib_common\src\main\AndroidManifest.xml
